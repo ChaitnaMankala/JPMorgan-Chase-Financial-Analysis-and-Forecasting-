@@ -1,6 +1,5 @@
 # JPMorgan Chase Financial Analysis & Forecasting 
-This project presents a comprehensive analysis of JPMorgan Chase & Co.’s financial statements and Management Discussion & Analysis (MD&A) sections from 2013–2023. It was developed as part of the ACCT745 course on Accounting Information & Analytics at Rochester Institute of Technology.
-
+This project presents a comprehensive analysis of JPMorgan Chase & Co.’s financial statements and Management Discussion & Analysis (MD&A) sections from 2013–2023. 
 ## Objectives
 - Perform sentiment analysis on MD&A text to interpret management tone and strategic outlook.
 - Visualize recurring themes using dynamic word clouds across different time spans.
