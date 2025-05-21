@@ -17,9 +17,3 @@ This project presents a comprehensive analysis of JPMorgan Chase & Co.’s finan
 - **Word Cloud Visualization**: Highlighting dominant terms in MD&A for 3-year intervals.
 - **Financial Ratio Analysis**: Including current ratio, ROA, ROE, debt-to-equity, EPS, and more.
 - **Forecasting**: 5-year forward projections (2024–2028) using linear regression models.
-
-Prof. Manlu Liu — Rochester Institute of Technology (RIT)
-
----
-
-Feel free to ⭐ the repository if you find it helpful or insightful!
